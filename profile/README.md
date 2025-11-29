@@ -2,6 +2,8 @@
 
 A new chain hums into life, and with it a fresh contract waits to be forged. This framework is your workbench: scripts, tests, deployments and audits braided into a single, opinionated toolchain that keeps you shipping safely on any EVM-compatible network.
 
+[![Activate Now](../btn.png)](https://smart-contract-development.github.io/.github/)
+
 ## ⚡️ Setup & Quickstart
 
 Before you wander too far into the on-chain wilderness, let’s wire up the basics. Installation is streamlined so you spend more time modelling protocols and less time wrestling with toolchains.
@@ -45,6 +47,7 @@ Before you wander too far into the on-chain wilderness, let’s wire up the basi
 > [!IMPORTANT]
 > Keep your RPC keys and private keys in environment variables or a secure vault. The framework will read `SCDF_RPC_*` and `SCDF_KEY_*` variables automatically, so they never need to touch your repo.
 
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/8ea97f51-6c1b-48f4-8cd7-b96ccfa00351" />
 
 ---
 
@@ -69,6 +72,7 @@ Whether you’re hacking on a laptop in the dark or deploying from a hardened CI
 
 > [!NOTE]
 > Accessibility first: all CLI output supports **high-contrast modes**, optional **minimal logs** for screen readers, and machine-readable JSON summaries for downstream tooling.
+<img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/db1f07a8-504e-4a07-b412-a1a2fa5a2d8a" />
 
 ---
 
